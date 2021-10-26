@@ -59,13 +59,14 @@ Dla każdego kto docenia naszą pracę i chce nam pomóc w dostarczaniu jeszcze 
 Jeśli chcecie dowiedzieć się więcej o naszej strategii, planach i szczegółach emisji – zapraszam na nasz webinar ..., na .... 
 
 Do zobaczenia!  
+
 Tom
 
 ## Ekosystem
 
-wapka.pl / modula.dev
-Webstream -> MVP.Dev -> OneDay.Run
-Webstream.dev -> application.pl -> prototypowanie.pl 
++ wapka.pl / modula.dev
++ Webstream -> MVP.Dev -> OneDay.Run
++ Webstream.dev -> application.pl -> prototypowanie.pl 
 
 
 ## MRR
