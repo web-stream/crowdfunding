@@ -24,7 +24,8 @@ Stąd poszukujemy kapitału zewnętrznego..
 
 Z kilku powodów: 
 
-    Tworzymy ekosystem  [roadmap.wapka.pl](https://roadmap.wapka.pl) / modula.dev
+Tworzymy ekosystem  [roadmap.wapka.pl](https://roadmap.wapka.pl) / modula.dev
+
 
 Nasze rozwiązanie w dużej mierze opiera się na integracjach z innymi systemami CMS, CRM, SaaS poprzez API.
 
@@ -72,3 +73,10 @@ Webstream.dev -> application.pl -> prototypowanie.pl
 
 > **MRR,** czyli miesięczny powtarzalny przychód (z ang. Monthly Recurring Revenue), to wskaźnik który jest miarą **średniego przewidywalnego** przychodu, który firma otrzymuje i spodziewa się otrzymywać w przyszłości. Jest **znormalizowany**, czyli stanowi uśrednienie wszystkich planów cenowych i okresów fakturowania w jedną **„średnią” miesięczną** wartość, którą można analizować i śledzić na przestrzeni czasu.
 MRR, czyli miesięczny powtarzalny przychód (z ang. Monthly Recurring Revenue), to wskaźnik który jest miarą średniego przewidywalnego przychodu, który firma otrzymuje i spodziewa się otrzymywać w przyszłości. Jest znormalizowany, czyli stanowi uśrednienie wszystkich planów cenowych i okresów fakturowania w jedną „średnią” miesięczną wartość, którą można analizować i śledzić na przestrzeni czasu.
+
+---
++ [edit](https://github.com/web-stream/crowdfunding/edit/main/README.md)
+
+```
+https://github.com/web-stream/crowdfunding.git
+```
