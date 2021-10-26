@@ -28,6 +28,7 @@ Tworzymy ekosystem  [roadmap.wapka.pl](https://roadmap.wapka.pl) / modula.dev
 
 
 Nasze rozwiązanie w dużej mierze opiera się na integracjach z innymi systemami CMS, CRM, SaaS poprzez API.
+Toruje drogę do wykorzystania katualnie istniejącej infrastruktury do maksymalnego wykorzystania zasobów, tworzac prototypowane narzedzia w szybki spoósb na poziomie wieddzy junior devlopera.
 
 ## The Next level
 
