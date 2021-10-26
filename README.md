@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+# [crowdfunding.webstream.dev](https://crowdfunding.webstream.dev)
 
-You can use the [editor on GitHub](https://github.com/web-stream/crowdfunding/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Robimy crowdfunding.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+WebStream rośnie szybko. Bardzo szybko. 
 
-### Markdown
+Nasz MRR wzrósł * krotnie względem tego samego okresu rok temu. 
+Nasze rozwiązanie wdrażają software housey, freelancerzy, ... jak , a także najwięksi pracodawcy w Polsce a wśród nich m.in. ....  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Dlaczego potrzebujemy środków? 
 
-```markdown
-Syntax highlighted code block
+Jesteśmy startupem, mamy gotowy produkt ale wciąż go rozwijamy dopasowując do zmieniających się dynamicznie wymagań. 
+A równocześnie - zaczynamy ekspansję zagraniczną i skalowanie m.in. . To kosztuje. 
+A procesy zakupów i wdrożeń w korporacjach trwają. 
+Moglibyśmy rozwijać się powoli i organicznie, ale nie chcemy przespać momentu hybrydowej rewolucji. Dlatego potrzeujemy kapitału, by maksymalnie wykorzystać naszą szansę. 
 
-# Header 1
-## Header 2
-### Header 3
+## Dlaczego Softreck ich nie zapewni? 
 
-- Bulleted
-- List
+Firma Softreck sfinansowała dotychczasowy rozwój produktu i w dalszym ciągu zapewnia niezbędne wsparcie. 
+Jednak Softreck nie jest funduszem inwestycyjnym i środki jakie może zapewnić na szybszy rozwój są ograniczone.
+Stąd poszukujemy kapitału zewnętrznego.. 
 
-1. Numbered
-2. List
+## Dlaczego zatem crowdfunding?  
 
-**Bold** and _Italic_ and `Code` text
+Z kilku powodów: 
 
-[Link](url) and ![Image](src)
-```
+    Tworzymy ekosystem  [roadmap.wapka.pl](https://roadmap.wapka.pl) / modula.dev
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Nasze rozwiązanie w dużej mierze opiera się na integracjach z innymi systemami CMS, CRM, SaaS poprzez API.
 
-### Jekyll Themes
+## The Next level
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/web-stream/crowdfunding/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Nasi Partnerzy, developerzy, architekci, doradcy, integratorzy, dostawcy pozostałych systemów i rozwiązań.  
 
-### Support or Contact
+Wnieśli już merytoryczną cegiełkę w budowę polskiego systemu do modularyzacji i streamowania aplikcaji.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Teraz mogą nie tylko wnieść pieniądze, ale także bezcenną wiedzę czy kontakty, pozwalające nam jeszcze lepiej rozwijać nasz produkt.
+
+Dzięki temu każdy kto obecnie korzysta z ekosystemu wapka/modula.dev, będzie mógł razem z nami partycypować w korzyściach globalnej ekspancji.
+
+
+## Crowdfunding to pierwszy krok do New Connect 
+
+ Chociaż dopuszczamy różne scenariusze dalszego rozwoju i finansowania OneDay.Run, to nasz bazowy scenariusz zakłada wyjście na New Connect. Aby to był możliwe, potrzebne jest objęcie min. 15% udziałów przez rozproszonych akcjonariuszy. Crowdfunding to najlepszy sposób na rozpoczęcie tego procesu. 
+
+ 3. Budujemy społeczność.  
+
+Chociaż sprzedajemy w modelu B2B, to jesteśmy aplikacją, której używają tysiące programistów. 
++ chcemy, by oni również czuli wpływ na to jak się rozwijamy i co robimy dalej. 
++ Chcemy, by byli zaangażowani w nasz rozwój, dzielili się feedbackiem, polecali nas dalej.  
++ Chcemy słuchać. 
+
+## Crowdfunding to niezwykłe narzędzie, 
+
+Pozwala nie tylko pozyskiwać kapitał, ale też budować zaangażowanie.  
+Dla każdego kto docenia naszą pracę i chce nam pomóc w dostarczaniu jeszcze lepszego produktu i usługi, zapraszam z tego miejsca serdecznie do dołączenia do grona inwestorów. 
+
+Jeśli chcecie dowiedzieć się więcej o naszej strategii, planach i szczegółach emisji – zapraszam na nasz webinar ..., na .... 
+
+Do zobaczenia!  
+Tom
+
+## Ekosystem
+
+wapka.pl / modula.dev
+Webstream -> MVP.Dev -> OneDay.Run
+Webstream.dev -> application.pl -> prototypowanie.pl 
+
+
+## MRR
+[Wskaźnik MRR pod lupą - jak i dlaczego warto go mierzyć? - Fincastly](https://fincastly.com/wskaznik-mrr/)
+
+> **MRR,** czyli miesięczny powtarzalny przychód (z ang. Monthly Recurring Revenue), to wskaźnik który jest miarą **średniego przewidywalnego** przychodu, który firma otrzymuje i spodziewa się otrzymywać w przyszłości. Jest **znormalizowany**, czyli stanowi uśrednienie wszystkich planów cenowych i okresów fakturowania w jedną **„średnią” miesięczną** wartość, którą można analizować i śledzić na przestrzeni czasu.
+MRR, czyli miesięczny powtarzalny przychód (z ang. Monthly Recurring Revenue), to wskaźnik który jest miarą średniego przewidywalnego przychodu, który firma otrzymuje i spodziewa się otrzymywać w przyszłości. Jest znormalizowany, czyli stanowi uśrednienie wszystkich planów cenowych i okresów fakturowania w jedną „średnią” miesięczną wartość, którą można analizować i śledzić na przestrzeni czasu.
